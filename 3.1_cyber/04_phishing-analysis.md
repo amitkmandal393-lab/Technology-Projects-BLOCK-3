@@ -38,7 +38,7 @@ If you believe this is a mistake, reply with your full name, date of birth, and 
 ### Reflection
 
 Explain why attackers use phishing emails.
-
+attackers use phishing emails because they exploit human phychology- such as fear, urgency trust or curiosity  rather than relying solely on technology vulnerabilities. 
 ------------------------------------------------------------------------
 
 ## Task 2 --- Link Inspection
@@ -53,6 +53,7 @@ Hover over the link in the email (or copy link) and inspect the URL.
 
 1.  Does the displayed link match the actual URL?
 2.  Are there unusual domain names?
+3.  https://secure-update.verify-account-check.example.com/login/redirect/authentication_step2/?sessionid=3f9a2b8c7d1e44aa92f1b0f8f&token=invalid123456789&continue=http%3A%2F%2Fupdate-alert-confirmation.example.net%2Fverify%2Fuser%2Fsecurity%2Fcheck%2F?id=889201&source=email_warning
 
 ### Reflection
 
