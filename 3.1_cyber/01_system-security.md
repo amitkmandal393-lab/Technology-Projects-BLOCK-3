@@ -31,9 +31,8 @@ Run:
 
     ps aux
 
-### Screenshot
-
-(Add screenshot here)
+(<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/6beb39b2-9fdd-4186-a8a0-9366478898f7" />
+)
 
 ### Questions
 
