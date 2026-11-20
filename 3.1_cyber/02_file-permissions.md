@@ -8,8 +8,9 @@ Run:
     ls -l secret.txt
 
 ### Screenshot
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/6bf00173-18de-496b-97a4-ad906c2c37a7" />
 
-(Add screenshot here)
+()
 
 ### Questions
 
