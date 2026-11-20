@@ -6,7 +6,8 @@ Run:
 
     cat /etc/passwd
 
-### Screenshot
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/25c4d0e8-80d2-4fa3-a31b-7572a5756394" />
+
 
 
 
