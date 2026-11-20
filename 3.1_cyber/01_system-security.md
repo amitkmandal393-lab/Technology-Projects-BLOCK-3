@@ -8,7 +8,7 @@ Run:
 
 ### Screenshot
 
-<img width="1191" height="322" alt="Screenshot 2026-11-20 103439" src="https://github.com/user-attachments/assets/22638558-5b1e-4d40-9d3a-e3c700b378d6" />
+
 
 
 
